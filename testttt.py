@@ -8,3 +8,4 @@ class Random():
 
 print('gitttt')
 print('Hi Hello')
+print('GoodBye')
