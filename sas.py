@@ -1,2 +1,0 @@
-print("noononono")
-print("adskfn")

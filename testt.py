@@ -5,7 +5,7 @@ class Random():
         print('nice')
 
 
-
+print("sss")
 print('gitttt')
 print('Hi Hello')
 print('GoodBye')
